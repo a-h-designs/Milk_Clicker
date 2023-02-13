@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Milk Clicker</string>
+    <string name="content_description">Image of milk</string>
+    <string name="default_value">0</string>
+    <string name="click_default_value">1</string>
+    <string name="per_click_title">Per Click :&#160;</string>
+    <string name="cookie_clicks">Buy Cookie + 1 Click</string>
+    <string name="oreo_clicks">Buy Oreo + 10 Clicks</string>
+    <string name="choc_milk">Buy Chocolate Milk</string>
+    <string name="buy">Buy</string>
+    <string name="costs_50">Costs 100 Clicks</string>
+    <string name="costs_100">Costs 1000 Clicks</string>
+    <string name="costs_10000">Costs 10000 Clicks</string>
+</resources>
